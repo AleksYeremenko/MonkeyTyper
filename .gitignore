@@ -1,0 +1,13 @@
+# CMake
+cmake-build-*/
+
+# Dependencies
+MonkeyTyper/**/_deps/
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Editor/system
+.DS_Store
+Thumbs.db
